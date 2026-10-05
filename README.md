@@ -37,10 +37,10 @@ This is a pre-trained DistilBERT model fine-tuned for sentiment classification.
 
 ## Example:
 
-Input
+- Input
    I really enjoyed the movie.
    
-Output
+- Output
   Positive — 99.99%
 
 ## Another example:
