@@ -66,3 +66,7 @@ This is a pre-trained DistilBERT model fine-tuned for sentiment classification.
 - Batch text analysis
 - Graphical sentiment statistics
 - Support for longer text documents
+  
+## Conclusion
+
+The Sentiment Analysis project demonstrates the practical application of Transformer-based Natural Language Processing for classifying text sentiment. Using a pre-trained DistilBERT model through the Hugging Face Inference API and Streamlit, the application can identify text as Positive or Negative and display the prediction confidence. This project provides a simple example of integrating modern AI models into a user-friendly web application.
