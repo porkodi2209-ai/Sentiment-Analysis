@@ -38,18 +38,18 @@ This is a pre-trained DistilBERT model fine-tuned for sentiment classification.
 ## Example:
 
 - Input
-   I really enjoyed the movie.
+  - I really enjoyed the movie.
    
 - Output
-  Positive — 99.99%
+  - Positive — 99.99%
 
 ## Another example:
 
- Input
-   Nobody likes me.
+- Input
+  - Nobody likes me.
 
-Output:
-   Negative — 99.95%
+- Output:
+  - Negative — 99.95%
 
 ## DEMO
 ## Screenshot
